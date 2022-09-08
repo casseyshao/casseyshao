@@ -13,7 +13,7 @@
 ### Connect with me!
 - [LinkedIn](https://www.linkedin.com/in/casseyshao)
 - [Medium](https://casseyshao.medium.com/)
-- [DevPost](https://devpost.com/casseys0000)
+- [Devpost](https://devpost.com/casseys0000)
 - [Goodreads](https://www.goodreads.com/casseyshao)
 
 <!--
