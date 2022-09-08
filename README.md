@@ -1,4 +1,9 @@
 ### Hi, I'm [Cassey](https://www.linkedin.com/in/casseyshao) 👋
+  
+#### About me!
+- 📚 I am an undergraduate student at University of Toronto pursuing a Bachelor of Applied Science (BASc) in computer engineering, with a minor in business and a certificate in artificial intelligence (expected graduation May 2023).
+- 💻 I previously interned at Amazon as a software development engineer intern and edsembli Inc. as a junior software developer.
+- 🤩 I enjoy problem solving, working with people, and working with technology!
 
 <!--
 **casseyshao/casseyshao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
