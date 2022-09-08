@@ -5,6 +5,11 @@
 - 💻 I previously interned at Amazon as a software development engineer intern and edsembli Inc. as a junior software developer.
 - 🤩 I enjoy problem solving, working with people, and working with technology!
 
+### What I am up to currently!
+- 📝 I am currently in my fourth academic year of my program (4 academic years + 1 co-op year).
+- ✈️ I work parttime as a glider familiarization pilot for the Royal Canadian Air Cadet Gliding Program.
+- 😊 I am a Peer Coach for my faculty's Professional Experience Year (PEY) Co-op & Careers office.
+
 <!--
 **casseyshao/casseyshao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
