@@ -10,6 +10,12 @@
 - ✈️ I work part-time as a glider familiarization pilot for the Royal Canadian Air Cadet Gliding Program.
 - 😊 I am a Peer Coach for my faculty's Professional Experience Year (PEY) Co-op & Careers office.
 
+### Connect with me!
+- [LinkedIn](https://www.linkedin.com/in/casseyshao)
+- [Medium](https://casseyshao.medium.com/)
+- [DevPost](https://devpost.com/casseys0000)
+- [Goodreads](https://www.goodreads.com/casseyshao)
+
 <!--
 **casseyshao/casseyshao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
