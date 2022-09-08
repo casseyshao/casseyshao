@@ -7,7 +7,7 @@
 
 ### What I am up to currently!
 - 📝 I am currently in my fourth academic year of my program (4 academic years + 1 co-op year).
-- ✈️ I work parttime as a glider familiarization pilot for the Royal Canadian Air Cadet Gliding Program.
+- ✈️ I work part-time as a glider familiarization pilot for the Royal Canadian Air Cadet Gliding Program.
 - 😊 I am a Peer Coach for my faculty's Professional Experience Year (PEY) Co-op & Careers office.
 
 <!--
