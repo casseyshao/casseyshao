@@ -1,15 +1,14 @@
 ## Hi, I'm [Cassey](https://www.linkedin.com/in/casseyshao) 👋
   
 ### About me!
-- 📚 I am an undergraduate student at University of Toronto pursuing a Bachelor of Applied Science (BASc) in computer engineering, with a minor in business and a certificate in artificial intelligence (expected graduation May 2023).
+- 🛠 I am currently completed the Major League Hacking Site Reliability Engineering fellowship sponsored by Meta (Summer 2023).
+- ✈️ I work part-time as a glider familiarization pilot for the Royal Canadian Air Cadet Gliding Program.
+- 🤩 I enjoy problem solving and working with people!
+
+### Previously...
+- 📚 I graduated from University of Toronto with a Bachelor of Applied Science (BASc) in computer engineering, with a minor in business and a certificate in artificial intelligence (June 2023).
 - 💻 I previously interned at Amazon as a software development engineer intern and edsembli Inc. as a junior software developer.
 - 📋 I worked as a teaching assistant for the CSC343 – Introduction to Databases course taught through the Department of Computer Science at University of Toronto.
-- 🤩 I enjoy problem solving, working with people, and working with technology!
-
-### What I am up to currently!
-- 📝 I am currently in my fourth academic year of my program (4 academic years + 1 co-op year).
-- ✈️ I work part-time as a glider familiarization pilot for the Royal Canadian Air Cadet Gliding Program.
-- 😊 I am a Peer Coach for my faculty's Professional Experience Year (PEY) Co-op & Careers office.
 
 ### Connect with me!
 - [LinkedIn](https://www.linkedin.com/in/casseyshao)
