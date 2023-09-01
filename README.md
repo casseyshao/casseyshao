@@ -1,12 +1,12 @@
 ## Hi, I'm [Cassey](https://www.linkedin.com/in/casseyshao) 👋
   
 ### About me!
-- 🛠 I am currently completed the Major League Hacking Site Reliability Engineering fellowship sponsored by Meta (Summer 2023).
+- 🛠 I am a Site Reliability Engineering Fellow with Major League Hacking and Meta (Summer 2023).
 - ✈️ I work part-time as a glider familiarization pilot for the Royal Canadian Air Cadet Gliding Program.
 - 🤩 I enjoy problem solving and working with people!
 
 ### Previously...
-- 📚 I graduated from University of Toronto with a Bachelor of Applied Science (BASc) in computer engineering, with a minor in business and a certificate in artificial intelligence (June 2023).
+- 📚 I graduated from University of Toronto with a Bachelor of Applied Science in computer engineering, with a minor in business and a certificate in artificial intelligence (June 2023).
 - 💻 I previously interned at Amazon as a software development engineer intern and edsembli Inc. as a junior software developer.
 - 📋 I worked as a teaching assistant for the CSC343 – Introduction to Databases course taught through the Department of Computer Science at University of Toronto.
 
